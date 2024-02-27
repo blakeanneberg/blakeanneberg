@@ -9,7 +9,6 @@
   - Build an API and learn how to monitise APIs.
   - Project: Rasberry PI to become a air monotoring station with Python.
   - Creating a blog with either django or Go about my coding journey.
-- 📫 Contact me via the form on blakeanneberg.com.
 <!---
 blakeanneberg/blakeanneberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
